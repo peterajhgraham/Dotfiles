@@ -1,2 +1,3 @@
-# Shell_Scripts
-Personal use shell scripts for current Linux Distros
+# Shell Scripts
+
+**Currently using Bash in Arch Linux**
