@@ -1,3 +1,6 @@
 # Shell Scripts
 
-**Currently using Bash in Arch Linux**
+**Current Setup**
+- Lenovo ThinkPad X1 Carbon 4th Gen
+  - Arch Linux
+   
