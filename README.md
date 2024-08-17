@@ -10,4 +10,4 @@ Lenovo ThinkPad X1 Carbon 4th Gen running Arch Linux
     width = 50%
     >
 
-Don't mind the CPU Usage was compiling a browser from AUR 😅
+Don't mind the CPU Usage, I was compiling a browser from AUR.
