@@ -1,3 +1,10 @@
+#
+# ~/.bashrc
+#
+
+# If not running interactively, don't do anything
+[[ $- ≠ *i* ]] && return
+
 alias ve='python3 -m venv ./venv'
 alias va='source ./venv/bin/activate'
 alias ls='ls --color=auto'
